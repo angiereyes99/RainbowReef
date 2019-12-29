@@ -1,13 +1,4 @@
-# csc413-SecondGame
-
-## Student Name  : Angelo Reyes
-## Student ID    : 917566993
-
-### IDE Used: IntelliJ
-### Text Editor: Sublime
-### Java Version: Java 13
-### Working Directory: /Users/angeloreyes/Desktop/csc413-secondgame-angiereyes99
-### repo: https://github.com/csc413-02-fall2019/csc413-secondgame-angiereyes99
+# Rainbow Reef
 
 # How to Import Project
 
